@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Massoud Koochak
-- 👀 I’m Finance and Operation design and development
-- 👀 I work on portal Azure services: Service Bus-Functions-Logic apps-...
+- 👀 I’m D365 Finance and Operation design and development
+- 👀 I also work on portal Azure services: Service Bus-Functions-Logic apps-... for integration
 - 🌱 I’m currently learning Power Platform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me massoud.kd@gmail.com
